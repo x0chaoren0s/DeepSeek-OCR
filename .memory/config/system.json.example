@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0-mvp",
+  "current_terminal_id": "YOUR_TERMINAL_ID",
+  "display_name": "【计算机名：环境名】",
+  "memory_branch": "memory",
+  "last_harvest": null,
+  "last_sync": null,
+  "created_at": "YYYY-MM-DDTHH:MM:SSZ"
+}
