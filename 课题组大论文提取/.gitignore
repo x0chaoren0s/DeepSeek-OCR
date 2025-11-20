@@ -1,0 +1,22 @@
+# 输入论文
+*.pdf
+
+# 输出目录（转换结果太大）
+outputs/
+
+# 模型权重（太大，不提交）
+models/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+.venv*/
+venv/
+
+# 临时文件
+*.tmp
+*.log
+

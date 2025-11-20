@@ -1,0 +1,10 @@
+# 记忆系统本地配置（不同步，类似 .env）
+config/system.json
+
+# 日志文件（可选是否同步）
+logs/*.log
+
+# 临时文件
+*.tmp
+*.bak
+

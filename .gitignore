@@ -1,0 +1,26 @@
+# 模型权重（太大，不提交）
+models/
+
+# 虚拟环境
+.venv-vllm/
+.venv*/
+venv/
+
+# vLLM wheel 文件（太大）
+*.whl
+
+# 临时目录
+.tasks/
+.specstory/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.bak

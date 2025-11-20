@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-11-20T11:53:55Z",
+  "terminals": {
+    "dahei_biye_win10_hainan_dpskocr": {
+      "display_name": "【大黑-毕业win10：hainan：dpskocr】",
+      "first_sync": "2025-11-20T11:53:55Z",
+      "last_sync": "2025-11-20T11:53:55Z",
+      "last_harvest": "2025-11-20T11:53:55Z",
+      "learned_memory_ids": [
+        "mem_20251120_001",
+        "mem_20251120_002",
+        "mem_20251120_003",
+        "mem_20251120_004",
+        "mem_20251120_005",
+        "mem_20251120_006",
+        "mem_20251120_007",
+        "mem_20251120_008"
+      ],
+      "pending_learn": []
+    }
+  }
+}
+
